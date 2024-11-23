@@ -27,3 +27,4 @@ replay_pid*
 /.kotlin/
 /.idea/caches/deviceStreaming.xml
 /.idea/gradle.xml
+/local.properties
